@@ -8,3 +8,5 @@ yellow_tripdata_*.csv
 .venv*/
 
 .venv*/
+mlflow.db
+mlruns/
